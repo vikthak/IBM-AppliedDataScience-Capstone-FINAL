@@ -1,5 +1,7 @@
 # IBM-DataScienceProfessionalCert-Capstone-FINAL
 
-This is the final IBM Data Science Professional certification Capstone project by Coursera. - https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science
+This repo contains the files/projects requred to complete the final IBM Data Science Professional certification Capstone project provided by Coursera. - https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science
 
-Link to the full Coursera cerfication course:  https://www.coursera.org/professional-certificates/ibm-data-science
+The repo also contains the final presentation summarizing the findings
+
+Here is the link to the full Coursera cerfication course:  https://www.coursera.org/professional-certificates/ibm-data-science
